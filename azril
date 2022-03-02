@@ -1,0 +1,2 @@
+vless://f52f62bd-5fbd-449c-ac14-aebc9be080d0@104.26.5.10:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#XL+AKRAB
+trojan://1a822280-9971-11ec-b030-217f943883dc@104.26.5.10:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#XL+AKRAB
