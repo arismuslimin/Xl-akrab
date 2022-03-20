@@ -1,1 +1,2 @@
 trojan://abb0c680-a795-11ec-b838-217f943883dc@104.26.5.10:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#19april
+vless://c4bec562-3bfa-47ce-8c75-bb8438e04a12@104.26.5.10:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#18april
