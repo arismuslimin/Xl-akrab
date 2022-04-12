@@ -1,2 +1,2 @@
 trojan://4fbbe4a0-b816-11ec-b634-217f943883dc@104.26.5.10:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#SGC+XL+13MEI
-trojan://kituvpn-xhfffr@104.26.5.10:443?path=%2Ftrojan-go&security=xtls&host=vip-biznet2.kitu.xyz&type=ws&flow=xtls-rprx-splice&sni=vip-biznet2.kitu.xyz#IDB+XL+13MEI
+trojan://kituvpn-xhfffr@104.26.5.10:443?path=%2Ftrojan-go&security=tls&host=vip-biznet2.kitu.xyz&type=ws&sni=vip-biznet2.kitu.xyz#IDB+XL+13MEI
