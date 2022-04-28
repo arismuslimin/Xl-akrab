@@ -1,1 +1,2 @@
-vless://5d0fa240-8bcd-4805-8033-962e6772546e@104.26.5.10:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#2mei
+trojan://2471df10-c63b-11ec-b436-217f943883dc@104.26.5.10:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#28mei
+trojan://2471df10-c63b-11ec-b436-217f943883dc@104.16.66.85:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#28mei
