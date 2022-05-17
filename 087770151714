@@ -1,2 +1,1 @@
-vless://71ecedb2-6051-4427-8395-8a0d39ad2231@104.26.5.10:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=sgm1ray.serverssh.net#23APR
-vmess://eyJhZGQiOiIxMDQuMjYuNS4xMCIsImFpZCI6IjAiLCJob3N0IjoiYXRoYS5tbGFhLm1lIiwiaWQiOiJkZWFmOGMwNS1hZjZmLTRhMzItODI2Ni1mMDIyNjU5YTkxYmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoiNDQzIiwicHMiOiIyM2FwcmlsIiwic2N5IjoiYXV0byIsInNuaSI6ImF0aGEubWxhYS5tZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://ca7deb70-d5f2-11ec-b134-217f943883dc@104.26.5.10:443?path=%2Ffastssh&security=tls&host=vpn11.tjvpn.org&type=ws&sni=vpn11.tjvpn.org#SGC+18juni
